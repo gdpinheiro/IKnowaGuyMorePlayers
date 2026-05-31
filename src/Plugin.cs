@@ -1,15 +1,16 @@
 using BepInEx;
 using BepInEx.Configuration;
+using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 
 namespace IKnowaGuyMorePlayers
 {
     [BepInPlugin("com.github.IKnowaGuyMorePlayers", "IKnowaGuyMorePlayers", "1.0.0")]
-    public class Plugin : BaseUnityPlugin
+    public class Plugin : BasePlugin
     {
         public static ConfigEntry<int> MaxPlayers { get; private set; }
 
-        private void Awake()
+        public override void Load()
         {
             MaxPlayers = Config.Bind(
                 "General",
@@ -21,7 +22,7 @@ namespace IKnowaGuyMorePlayers
             Harmony harmony = new Harmony("com.github.IKnowaGuyMorePlayers");
             harmony.PatchAll();
 
-            Logger.LogInfo("IKnowaGuyMorePlayers loaded!");
+            Log.LogInfo("IKnowaGuyMorePlayers loaded!");
         }
     }
 }

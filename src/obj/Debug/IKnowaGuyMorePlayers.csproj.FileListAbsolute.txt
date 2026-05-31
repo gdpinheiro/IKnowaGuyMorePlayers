@@ -4,3 +4,8 @@ D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePla
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.AssemblyInfo.cs
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.csproj.CoreCompileInputs.cache
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.sourcelink.json
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\release\IKnowaGuyMorePlayers.deps.json
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\release\IKnowaGuyMorePlayers.dll
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\release\IKnowaGuyMorePlayers.pdb
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.dll
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.pdb
