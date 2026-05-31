@@ -1,0 +1,22 @@
+public enum IngredientType
+{
+	Mozzarella,
+	Pepperoni,
+	Mushrooms,
+	BellPeppers,
+	Olives,
+	Ham,
+	Basil,
+	Pineapple,
+	Sausage,
+	Bacon,
+	RedOnions,
+	OliveOil,
+	Ricotta,
+	Garlic,
+	Cannabis,
+	MagicMushroom,
+	Pill,
+	Meth,
+	OrganMeat
+}
