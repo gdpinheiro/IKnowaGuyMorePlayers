@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IKnowaGuyMorePlayers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93a9849f564e7001643887b20a0bf27650cc370e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IKnowaGuyMorePlayers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IKnowaGuyMorePlayers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

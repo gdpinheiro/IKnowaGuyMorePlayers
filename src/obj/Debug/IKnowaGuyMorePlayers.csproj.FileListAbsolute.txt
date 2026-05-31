@@ -3,3 +3,4 @@ D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePla
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.AssemblyInfoInputs.cache
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.AssemblyInfo.cs
 D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.csproj.CoreCompileInputs.cache
+D:\Games\ZZMODS\I Know a Guy\IKnowaGuyMorePlayers\src\obj\Debug\IKnowaGuyMorePlayers.sourcelink.json
